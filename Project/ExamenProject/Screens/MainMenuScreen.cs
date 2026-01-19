@@ -146,14 +146,14 @@ namespace ExamenProject.Screens
             }
 
             // Draw hover effects
-            if (hoveringNormal)
-                spriteBatch.Draw(textures.Pixel, normalButtonBounds, Color.Yellow * 0.3f);
+            //if (hoveringNormal)
+            //    spriteBatch.Draw(textures.Pixel, normalButtonBounds, Color.Yellow * 0.3f);
 
-            if (hoveringGodMode)
-                spriteBatch.Draw(textures.Pixel, godModeButtonBounds, Color.Yellow * 0.3f);
+            //if (hoveringGodMode)
+            //    spriteBatch.Draw(textures.Pixel, godModeButtonBounds, Color.Yellow * 0.3f);
 
-            if (hoveringExit)
-                spriteBatch.Draw(textures.Pixel, exitButtonBounds, Color.Red * 0.3f);
+            //if (hoveringExit)
+            //    spriteBatch.Draw(textures.Pixel, exitButtonBounds, Color.Red * 0.3f);
 
             spriteBatch.End();
         }

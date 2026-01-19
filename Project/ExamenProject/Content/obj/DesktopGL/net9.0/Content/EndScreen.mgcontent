@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/EndScreen.jpg</SourceFile>
+  <SourceFile>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/EndScreen.jpg</SourceFile>
   <SourceTime>2022-01-19T18:32:20.7137457+01:00</SourceTime>
-  <DestFile>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/bin/DesktopGL/Content/EndScreen.xnb</DestFile>
-  <DestTime>2026-01-18T21:32:44.0251643+01:00</DestTime>
+  <DestFile>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/bin/DesktopGL/Content/EndScreen.xnb</DestFile>
+  <DestTime>2026-01-19T02:42:58.0573283+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-10-20T16:25:32+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

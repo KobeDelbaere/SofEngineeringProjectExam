@@ -4,23 +4,23 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/_Attack.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/_Fall.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/_Idle.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/_Jump.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/_Run.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/15.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/16-bit-spike-Sheet.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/Arrow.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/Balista.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/DestroyedBalista.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/EndScreen.jpg</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/jungle parallax background.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/platform.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/Skeleton Dead.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/Skeleton Walk.png</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/StartScreen.jpg</File>
-    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/ExamenProject/Content/woodfl.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/_Attack.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/_Fall.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/_Idle.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/_Jump.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/_Run.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/15.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/16-bit-spike-Sheet.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/Arrow.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/Balista.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/DestroyedBalista.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/EndScreen.jpg</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/jungle parallax background.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/platform.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/Skeleton Dead.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/Skeleton Walk.png</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/StartScreen.jpg</File>
+    <File>C:/Users/kobed/OneDrive/Bureaublad/AP/2.1/SoftwareEngineering/ExamenProject - Copy - Copy/SofEngineeringProjectExam/Project/ExamenProject/Content/woodfl.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
